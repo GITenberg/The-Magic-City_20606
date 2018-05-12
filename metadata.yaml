@@ -27,6 +27,8 @@ creator:
 description: "The Magic City is a children's book by Edith Nesbit, first published\
   \ in 1910. It initially appeared as a serial in The Strand Magazine, with illustrations\
   \ by Spencer Pryse.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20606#The-Magic-City
 gutenberg_bookshelf:
 - Children's Literature
 - Children's Fiction
